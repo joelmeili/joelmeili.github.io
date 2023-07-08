@@ -3,6 +3,7 @@ I'm a Biostatistics master's graduate from the University of Zurich, Switzerland
 
 ## Research interests
 ### Bioinformatics
+I'm particularly interested in cancer research and how bioinformatics and machine learning can be used to better understand the mechanisms at work to ultimately provide better health care for patients.
 
 ## Projects
 ### Master's thesis - Differential gene regulation
