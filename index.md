@@ -25,6 +25,6 @@ uncertainty. Additionally, we studied methods robustness by investigating how ge
 levels, and differential gene expression (a nuisance effect in this analysis), affect the results of
 each method. We also ran a null analysis on a real data set (where no differences between groups
 are expected), to study methods’ false positive rates. Lastly, we ran a computational benchmark
-on the mouse kidney data to evaluate the computational burden of each method. [PDF]({{ site.baseurl }}{% link /assets/files/masters_thesis.pdf %})
+on the mouse kidney data to evaluate the computational burden of each method. [PDF](/assets/files/masters_thesis.pdf)
 
 ### Statistical consulting project - Beneft of prolonged and earlier treatment of Hepatocellular carcinoma patients with TACE
