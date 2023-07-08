@@ -1,5 +1,5 @@
 # About me
-I'm a Biostatistics master's graduate from the University of Zurich, Switzerland. Prior to my master's degree I worked as a research assistant at the Swiss Federal Institute of Technology in Zurich at the Center for Law and Economics, where I helped design and evaluate economic experiments in a lab and classroom setting. For my master's thesis I worked on a project where we investigated methods that detect differentially regulated genes e.g. [eisaR](https://bioconductor.org/packages/release/bioc/html/eisaR.html), [BRIE2](https://brie.readthedocs.io/en/latest/) and compared the performance with a novel Bayesian approach [DifferentialRegulation](http://www.bioconductor.org/packages/release/bioc/html/DifferentialRegulation.html) on a semi-simulated data set based on mouse kidney single-cell RNA-seq data.
+I'm a Biostatistics master's graduate from the University of Zurich, Switzerland. Prior to my master's degree I worked as a research assistant at the Swiss Federal Institute of Technology in Zurich at the Center for Law and Economics, where I helped design and evaluate economic experiments in a lab and classroom setting. For my master's thesis I worked on a project where we investigated methods that detect differentially regulated genes e.g. [eisaR](https://bioconductor.org/packages/release/bioc/html/eisaR.html){:target="_blank"}, [BRIE2](https://brie.readthedocs.io/en/latest/){:target="_blank"} and compared the performance with a novel Bayesian approach [DifferentialRegulation](http://www.bioconductor.org/packages/release/bioc/html/DifferentialRegulation.html){:target="_blank"} on a semi-simulated data set based on mouse kidney single-cell RNA-seq data.
 
 ## Research interests
 ### Bioinformatics
@@ -25,6 +25,7 @@ uncertainty. Additionally, we studied methods robustness by investigating how ge
 levels, and differential gene expression (a nuisance effect in this analysis), affect the results of
 each method. We also ran a null analysis on a real data set (where no differences between groups
 are expected), to study methods’ false positive rates. Lastly, we ran a computational benchmark
-on the mouse kidney data to evaluate the computational burden of each method. [PDF](/assets/files/masters_thesis.pdf)
+on the mouse kidney data to evaluate the computational burden of each method. [PDF](/assets/files/masters_thesis.pdf){:target="_blank"}
 
 ### Statistical consulting project - Beneft of prolonged and earlier treatment of Hepatocellular carcinoma patients with TACE
+
