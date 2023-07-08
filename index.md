@@ -43,7 +43,10 @@ Confounders such as sex, age and underlying conditions did not influence the eff
 on the overall survival. Based on the results we would recommend only patients of BCLC stages B
 and C to receive earlier and prolonged treatment with TACE. [PDF](/assets/files/report_STA490_meili.pdf)
 
-### COVID19 Dashboard
+### Deep Learning for Medical Computer Vision - COVID19 lesion segmentation with CT images
+The following was the implementation of a machine learning configuration that uses a segmentation model, in this case [FPN](https://segmentation-modelspytorch.readthedocs.io/en/latest/docs/api.html#fpn), with pre-trained weights to predict the masks of COVID19 lesions from CT images. The code was implemented in the PyTorch framework with a positive-to-negative ratio of 2 (double the amount of images with an actual pixel highlighting a lesion). The goal of this semester project was to find a data set with segmentation data and implement a pre-built segmentation algorithm to experiment with hyperparameters in the training process (trained on DICE loss) and do inference on the predicted masks (compare IoU scores). [GitHub repo](https://github.com/joelmeili/COVIDPrediction)
+
+### COVID19 Dashboard - Simulating a SIRD model
 An attempt to model the COVID19 data from the [Johns Hopkins Github Repository](https://github.com/CSSEGISandData) by a SIRD model for various countries such as Germany, Switzerland and the US. This Github repository contains a shiny app that estimates the model parameters and then simulates the disease would progress based on these estimates. [GitHub repo](https://github.com/joelmeili/COVID19)
 
 A live version of the shiny app can be found [here](https://joelmeili.shinyapps.io/COVID19_Dashboard).
