@@ -44,6 +44,6 @@ on the overall survival. Based on the results we would recommend only patients o
 and C to receive earlier and prolonged treatment with TACE. [PDF](/assets/files/report_STA490_meili.pdf)
 
 ### COVID19 Dashboard
-An attempt to model the COVID19 data from the [Johns Hopkins Github Repository](https://github.com/CSSEGISandData) by a SIRD model for various countries such as Germany, Switzerland and the US. This Github repository contains a shiny app that estimates the model parameters and then simulates the disease would progress based on these estimates.
+An attempt to model the COVID19 data from the [Johns Hopkins Github Repository](https://github.com/CSSEGISandData) by a SIRD model for various countries such as Germany, Switzerland and the US. This Github repository contains a shiny app that estimates the model parameters and then simulates the disease would progress based on these estimates. [GitHub repo](https://github.com/joelmeili/COVID19)
 
 A live version of the shiny app can be found [here](https://joelmeili.shinyapps.io/COVID19_Dashboard).
