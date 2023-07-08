@@ -4,3 +4,5 @@ plugins:
 
 title: Joël Meili
 author: Joël Meili
+github:
+  is_project_page: false
