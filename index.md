@@ -1,5 +1,5 @@
 # About me
-I'm a Biostatistics master's graduate from the University of Zurich, Switzerland. Prior to my master's degree I worked as a research assistant at the Swiss Federal Institute of Technology in Zurich at the Center for Law and Economics, where I helped design and evaluate economic experiments in a lab and classroom setting. For my master's thesis I worked on a project where we investigated methods that detect differentially regulated genes e.g. [eisaR](https://bioconductor.org/packages/release/bioc/html/eisaR.html){:target="_blank"}, [BRIE2](https://brie.readthedocs.io/en/latest/){:target="_blank"} and compared the performance with a novel Bayesian approach [DifferentialRegulation](http://www.bioconductor.org/packages/release/bioc/html/DifferentialRegulation.html){:target="_blank"} on a semi-simulated data set based on mouse kidney single-cell RNA-seq data.
+I'm a Biostatistics master's graduate from the University of Zurich, Switzerland. Prior to my master's degree I worked as a research assistant at the Swiss Federal Institute of Technology in Zurich at the Center for Law and Economics, where I helped design and evaluate economic experiments in a lab and classroom setting. For my master's thesis I worked on a project where we investigated methods that detect differentially regulated genes e.g. [eisaR](https://bioconductor.org/packages/release/bioc/html/eisaR.html), [BRIE2](https://brie.readthedocs.io/en/latest/) and compared the performance with a novel Bayesian approach [DifferentialRegulation](http://www.bioconductor.org/packages/release/bioc/html/DifferentialRegulation.html) on a semi-simulated data set based on mouse kidney single-cell RNA-seq data.
 
 ## Research interests
 ### Bioinformatics
@@ -25,7 +25,19 @@ uncertainty. Additionally, we studied methods robustness by investigating how ge
 levels, and differential gene expression (a nuisance effect in this analysis), affect the results of
 each method. We also ran a null analysis on a real data set (where no differences between groups
 are expected), to study methods’ false positive rates. Lastly, we ran a computational benchmark
-on the mouse kidney data to evaluate the computational burden of each method. [PDF](/assets/files/masters_thesis.pdf){:target="_blank"}
+on the mouse kidney data to evaluate the computational burden of each method. [PDF](/assets/files/masters_thesis.pdf)
 
 ### Statistical consulting project - Beneft of prolonged and earlier treatment of Hepatocellular carcinoma patients with TACE
-
+This study aims to investigate if there is a benefit of prolonged and earlier treatment of hepatocellular
+carcinoma (HCC) patients with TACE. Patients were seen regularly for at least five years. The methods
+used were Kaplan-Meier plots, competing risk analysis and Cox-regression. The analysis is subject to
+the assumption that the patients in BCLC stages 0-A and C are not representative as patients are
+probably more/less ill than the average patient in said stage. The analysis showed that there is
+a tendency for improved overall survival for patients in BCLC stages B and C. Contrarily, TACE
+did not improve the overall survival for patients of the earlier stages 0 and A. The comparison of
+overall and progression-free survival curves between the dierent BCLC stages showed that there is no
+evidence for a difference between patients in stages 0-A and B. Competing risk analysis showed that
+patients regardless of their staging die quickly from hepatic failure compared to other causes of death.
+Confounders such as sex, age and underlying conditions did not inuence the effect of the BCLC stages
+on the overall survival. Based on the results we would recommend only patients of BCLC stages B
+and C to receive earlier and prolonged treatment with TACE. [PDF](/assets/files/report_STA490_meili.pdf)
