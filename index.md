@@ -36,7 +36,7 @@ the assumption that the patients in BCLC stages 0-A and C are not representative
 probably more/less ill than the average patient in said stage. The analysis showed that there is
 a tendency for improved overall survival for patients in BCLC stages B and C. Contrarily, TACE
 did not improve the overall survival for patients of the earlier stages 0 and A. The comparison of
-overall and progression-free survival curves between the dierent BCLC stages showed that there is no
+overall and progression-free survival curves between the different BCLC stages showed that there is no
 evidence for a difference between patients in stages 0-A and B. Competing risk analysis showed that
 patients regardless of their staging die quickly from hepatic failure compared to other causes of death.
 Confounders such as sex, age and underlying conditions did not influence the effect of the BCLC stages
